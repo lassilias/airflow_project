@@ -1,0 +1,10 @@
+USE test;
+
+SELECT * FROM data;
+
+LOAD DATA INFILE '/cellar/data.csv'  INTO TABLE data
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"' 
+LINES TERMINATED BY '\n';
+
+SELECT * FROM data;

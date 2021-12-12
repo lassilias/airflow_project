@@ -1,0 +1,456 @@
+2021-11-05 19:57:34,578 INFO - Starting the scheduler
+2021-11-05 19:57:34,579 INFO - Processing each file at most -1 times
+2021-11-05 19:57:34,600 INFO - Launched DagFileProcessorManager with pid: 142
+2021-11-05 19:57:34,601 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 19:57:34,610 INFO - Configured default timezone Timezone('UTC')
+2021-11-05 20:02:34,843 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 20:07:35,808 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 20:12:36,218 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 20:17:36,906 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 20:22:37,502 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 20:27:38,186 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 20:32:38,888 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 20:37:39,171 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 20:42:39,473 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 20:47:39,542 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 20:52:40,663 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 20:57:41,831 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 21:02:42,824 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 21:07:43,005 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 21:52:23,862 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 21:52:23,867 INFO - Marked 1 SchedulerJob instances as failed
+2021-11-05 21:57:24,437 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 22:02:24,514 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 22:07:24,801 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 22:12:25,057 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 22:17:25,339 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 22:22:25,640 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 22:27:25,926 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 22:32:26,480 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 22:37:26,861 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 22:42:27,467 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 22:47:27,910 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 22:52:28,109 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 22:57:28,490 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 23:02:28,818 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 23:07:28,999 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 23:12:29,625 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 23:17:29,886 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 23:22:29,899 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 23:27:30,185 INFO - Resetting orphaned tasks for active dag runs
+2021-11-05 23:32:30,477 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 12:29:05,743 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 12:29:05,748 INFO - Marked 1 SchedulerJob instances as failed
+2021-11-06 12:34:06,013 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 12:39:06,582 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 12:44:06,622 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 12:49:07,345 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 12:54:07,385 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 12:59:07,809 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 13:04:08,280 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 13:09:08,531 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 13:14:09,135 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 13:19:09,793 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 13:24:10,046 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 13:29:10,061 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 13:34:10,736 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 13:39:11,178 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 13:44:11,369 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 13:49:11,436 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 13:54:11,706 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 13:59:12,019 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 14:04:12,272 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 14:09:12,483 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 14:14:12,786 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 14:19:14,004 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 14:24:14,463 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 14:29:14,724 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 14:34:14,892 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 14:39:15,206 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 14:44:15,430 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 14:49:15,763 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 14:54:16,028 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 14:59:16,522 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 15:04:16,745 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 15:09:16,949 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 15:14:17,561 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 15:19:17,926 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 15:24:18,386 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 15:29:18,669 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 15:34:18,683 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 15:39:18,991 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 15:44:19,343 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 15:49:19,396 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 15:54:20,096 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 15:59:20,117 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 16:04:20,668 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 16:09:21,012 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 16:10:31,856 WARNING - DagFileProcessorManager (PID=142) exited with exit code 1 - re-launching
+2021-11-06 16:10:31,900 INFO - Launched DagFileProcessorManager with pid: 18958
+2021-11-06 16:10:31,944 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 16:14:21,309 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 16:19:21,408 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 16:24:21,544 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 16:29:21,674 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 16:34:22,009 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 16:39:22,334 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 16:44:22,489 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 16:49:22,745 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 16:54:22,850 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 16:59:23,009 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 17:04:23,290 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 17:09:23,621 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 17:14:23,881 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 17:19:23,899 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 17:24:24,156 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 17:29:24,196 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 17:34:24,492 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 17:39:25,241 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 17:44:25,566 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 17:49:26,286 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 17:54:26,444 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 17:59:26,733 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 18:04:27,034 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 18:06:21,764 WARNING - DagFileProcessorManager (PID=18958) exited with exit code 1 - re-launching
+2021-11-06 18:06:21,784 INFO - Launched DagFileProcessorManager with pid: 32153
+2021-11-06 18:06:21,797 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 18:09:27,398 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 18:12:15,134 WARNING - DagFileProcessorManager (PID=32153) exited with exit code 1 - re-launching
+2021-11-06 18:12:15,164 INFO - Launched DagFileProcessorManager with pid: 32448
+2021-11-06 18:12:15,193 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 18:14:27,652 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 18:19:27,804 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 18:22:44,752 WARNING - DagFileProcessorManager (PID=32448) exited with exit code 1 - re-launching
+2021-11-06 18:22:44,766 INFO - Launched DagFileProcessorManager with pid: 243
+2021-11-06 18:22:44,778 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 18:24:28,133 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 18:28:48,923 WARNING - DagFileProcessorManager (PID=243) exited with exit code 1 - re-launching
+2021-11-06 18:28:48,938 INFO - Launched DagFileProcessorManager with pid: 554
+2021-11-06 18:28:48,950 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 18:29:28,450 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 18:34:29,175 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 18:34:49,510 WARNING - DagFileProcessorManager (PID=554) exited with exit code 1 - re-launching
+2021-11-06 18:34:49,522 INFO - Launched DagFileProcessorManager with pid: 843
+2021-11-06 18:34:49,533 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 18:39:29,875 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 18:42:58,943 WARNING - DagFileProcessorManager (PID=843) exited with exit code 1 - re-launching
+2021-11-06 18:42:58,961 INFO - Launched DagFileProcessorManager with pid: 1239
+2021-11-06 18:42:58,982 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 18:44:30,576 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 18:49:30,836 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 18:50:13,172 WARNING - DagFileProcessorManager (PID=1239) exited with exit code 1 - re-launching
+2021-11-06 18:50:13,189 INFO - Launched DagFileProcessorManager with pid: 1588
+2021-11-06 18:50:13,203 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 18:54:31,091 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 18:59:31,741 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 19:04:32,309 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 19:09:32,463 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 19:10:34,357 WARNING - DagFileProcessorManager (PID=1588) exited with exit code 1 - re-launching
+2021-11-06 19:10:34,376 INFO - Launched DagFileProcessorManager with pid: 2561
+2021-11-06 19:10:34,392 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 19:14:32,860 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 19:17:56,207 WARNING - DagFileProcessorManager (PID=2561) exited with exit code 1 - re-launching
+2021-11-06 19:17:56,220 INFO - Launched DagFileProcessorManager with pid: 2919
+2021-11-06 19:17:56,232 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 19:19:33,562 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 19:24:33,741 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 19:29:34,078 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 19:33:46,590 WARNING - DagFileProcessorManager (PID=2919) exited with exit code 1 - re-launching
+2021-11-06 19:33:46,607 INFO - Launched DagFileProcessorManager with pid: 3661
+2021-11-06 19:33:46,620 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 19:34:34,340 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 19:39:12,612 WARNING - DagFileProcessorManager (PID=3661) exited with exit code 1 - re-launching
+2021-11-06 19:39:12,644 INFO - Launched DagFileProcessorManager with pid: 3927
+2021-11-06 19:39:12,673 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 19:39:34,595 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 19:44:35,496 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 19:49:36,386 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 19:51:06,840 WARNING - DagFileProcessorManager (PID=3927) exited with exit code 1 - re-launching
+2021-11-06 19:51:06,854 INFO - Launched DagFileProcessorManager with pid: 4493
+2021-11-06 19:51:06,866 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 19:54:36,664 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 19:59:36,844 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 20:00:22,324 WARNING - DagFileProcessorManager (PID=4493) exited with exit code 1 - re-launching
+2021-11-06 20:00:22,338 INFO - Launched DagFileProcessorManager with pid: 4936
+2021-11-06 20:00:22,350 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 20:04:37,128 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 20:09:37,839 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 20:14:38,181 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 20:19:38,443 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 20:24:38,469 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 20:29:38,644 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 20:34:39,315 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 20:37:13,958 WARNING - DagFileProcessorManager (PID=4936) exited with exit code 1 - re-launching
+2021-11-06 20:37:13,972 INFO - Launched DagFileProcessorManager with pid: 6707
+2021-11-06 20:37:13,984 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 20:39:39,472 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 20:44:39,757 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 20:49:40,055 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 20:54:40,111 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 20:59:40,455 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 21:04:40,638 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 21:09:41,078 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 21:14:41,962 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 21:19:42,143 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 21:24:42,901 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 21:24:58,878 WARNING - DagFileProcessorManager (PID=6707) exited with exit code 1 - re-launching
+2021-11-06 21:24:58,892 INFO - Launched DagFileProcessorManager with pid: 8960
+2021-11-06 21:24:58,903 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 21:29:43,196 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 21:34:43,294 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 21:39:11,129 WARNING - DagFileProcessorManager (PID=8960) exited with exit code 1 - re-launching
+2021-11-06 21:39:11,141 INFO - Launched DagFileProcessorManager with pid: 9653
+2021-11-06 21:39:11,154 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 21:39:43,438 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 21:44:26,498 WARNING - DagFileProcessorManager (PID=9653) exited with exit code 1 - re-launching
+2021-11-06 21:44:26,512 INFO - Launched DagFileProcessorManager with pid: 9914
+2021-11-06 21:44:26,524 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 21:44:43,693 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 21:49:44,042 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 21:54:44,094 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 21:59:44,230 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 22:04:44,419 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 22:09:45,015 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 22:14:45,325 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 22:19:45,488 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 22:24:45,678 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 22:29:12,819 WARNING - DagFileProcessorManager (PID=9914) exited with exit code 1 - re-launching
+2021-11-06 22:29:12,839 INFO - Launched DagFileProcessorManager with pid: 12655
+2021-11-06 22:29:12,852 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 22:29:45,950 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 22:34:46,101 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 22:37:15,067 WARNING - DagFileProcessorManager (PID=12655) exited with exit code 1 - re-launching
+2021-11-06 22:37:15,079 INFO - Launched DagFileProcessorManager with pid: 13043
+2021-11-06 22:37:15,091 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 22:39:46,375 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 22:44:46,658 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 22:49:47,042 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 22:54:47,372 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 22:59:48,156 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 23:02:37,692 WARNING - DagFileProcessorManager (PID=13043) exited with exit code 1 - re-launching
+2021-11-06 23:02:37,707 INFO - Launched DagFileProcessorManager with pid: 14237
+2021-11-06 23:02:37,719 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 23:04:48,193 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 23:08:09,103 WARNING - DagFileProcessorManager (PID=14237) exited with exit code 1 - re-launching
+2021-11-06 23:08:09,119 INFO - Launched DagFileProcessorManager with pid: 14516
+2021-11-06 23:08:09,130 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 23:09:48,477 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 23:14:02,012 WARNING - DagFileProcessorManager (PID=14516) exited with exit code 1 - re-launching
+2021-11-06 23:14:02,024 INFO - Launched DagFileProcessorManager with pid: 14803
+2021-11-06 23:14:02,035 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 23:14:48,886 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 23:19:49,211 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 23:24:49,502 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 23:29:50,077 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 23:31:03,909 WARNING - DagFileProcessorManager (PID=14803) exited with exit code 1 - re-launching
+2021-11-06 23:31:03,927 INFO - Launched DagFileProcessorManager with pid: 15620
+2021-11-06 23:31:03,939 INFO - Configured default timezone Timezone('UTC')
+2021-11-06 23:34:50,780 INFO - Resetting orphaned tasks for active dag runs
+2021-11-06 23:39:51,089 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 11:57:15,943 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 11:57:15,948 INFO - Marked 1 SchedulerJob instances as failed
+2021-11-07 12:02:16,294 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 12:07:16,565 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 12:12:16,852 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 12:12:55,576 WARNING - DagFileProcessorManager (PID=15620) exited with exit code 1 - re-launching
+2021-11-07 12:12:55,591 INFO - Launched DagFileProcessorManager with pid: 17049
+2021-11-07 12:12:55,605 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 12:17:16,983 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 12:22:17,286 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 12:27:17,903 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 12:32:18,469 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 12:37:18,724 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 12:42:19,616 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 12:47:19,861 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 12:50:07,520 WARNING - DagFileProcessorManager (PID=17049) exited with exit code 1 - re-launching
+2021-11-07 12:50:07,571 INFO - Launched DagFileProcessorManager with pid: 18827
+2021-11-07 12:50:07,615 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 12:52:20,240 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 12:55:57,382 WARNING - DagFileProcessorManager (PID=18827) exited with exit code 1 - re-launching
+2021-11-07 12:55:57,396 INFO - Launched DagFileProcessorManager with pid: 19113
+2021-11-07 12:55:57,408 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 12:57:20,495 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 13:02:20,750 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 13:07:21,486 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 13:07:58,577 WARNING - DagFileProcessorManager (PID=19113) exited with exit code 1 - re-launching
+2021-11-07 13:07:58,590 INFO - Launched DagFileProcessorManager with pid: 19708
+2021-11-07 13:07:58,601 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 13:12:21,800 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 13:17:22,074 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 13:18:44,712 WARNING - DagFileProcessorManager (PID=19708) exited with exit code 1 - re-launching
+2021-11-07 13:18:44,726 INFO - Launched DagFileProcessorManager with pid: 20213
+2021-11-07 13:18:44,738 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 13:22:22,227 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 13:27:22,272 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 13:32:22,776 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 13:37:23,381 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 13:42:23,538 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 13:47:23,875 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 13:52:24,145 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 13:57:24,472 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 14:02:24,803 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 14:07:25,464 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 14:12:19,012 WARNING - DagFileProcessorManager (PID=20213) exited with exit code 1 - re-launching
+2021-11-07 14:12:19,027 INFO - Launched DagFileProcessorManager with pid: 22746
+2021-11-07 14:12:19,040 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 14:12:25,787 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 14:17:26,084 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 14:22:26,336 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 14:27:27,230 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 14:32:27,509 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 14:37:28,104 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 14:42:28,402 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 14:47:29,175 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 14:52:29,354 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 14:57:29,887 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 15:02:30,168 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 15:07:30,546 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 15:12:31,104 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 15:17:31,285 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 15:22:31,566 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 15:27:31,910 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 15:32:32,913 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 15:37:33,230 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 15:40:48,588 WARNING - DagFileProcessorManager (PID=22746) exited with exit code 1 - re-launching
+2021-11-07 15:40:48,604 INFO - Launched DagFileProcessorManager with pid: 26861
+2021-11-07 15:40:48,616 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 15:42:33,780 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 15:47:34,073 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 15:52:34,335 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 15:57:34,682 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 15:59:46,135 WARNING - DagFileProcessorManager (PID=26861) exited with exit code 1 - re-launching
+2021-11-07 15:59:46,149 INFO - Launched DagFileProcessorManager with pid: 27820
+2021-11-07 15:59:46,161 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 16:02:35,262 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 16:07:35,472 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 16:12:22,993 WARNING - DagFileProcessorManager (PID=27820) exited with exit code 1 - re-launching
+2021-11-07 16:12:23,011 INFO - Launched DagFileProcessorManager with pid: 28406
+2021-11-07 16:12:23,023 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 16:12:35,761 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 16:17:36,385 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 16:19:05,604 WARNING - DagFileProcessorManager (PID=28406) exited with exit code 1 - re-launching
+2021-11-07 16:19:05,617 INFO - Launched DagFileProcessorManager with pid: 28733
+2021-11-07 16:19:05,628 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 16:22:36,496 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 16:27:37,184 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 16:32:37,469 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 16:37:37,484 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 16:42:38,396 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 16:47:38,657 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 16:51:33,508 WARNING - DagFileProcessorManager (PID=28733) exited with exit code 1 - re-launching
+2021-11-07 16:51:33,531 INFO - Launched DagFileProcessorManager with pid: 30273
+2021-11-07 16:51:33,551 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 16:52:38,697 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 16:57:39,458 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 17:02:39,719 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 17:07:39,874 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 17:12:40,475 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 17:15:46,329 WARNING - DagFileProcessorManager (PID=30273) exited with exit code 1 - re-launching
+2021-11-07 17:15:46,342 INFO - Launched DagFileProcessorManager with pid: 31413
+2021-11-07 17:15:46,354 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 17:17:40,628 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 17:22:41,540 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 17:24:29,878 WARNING - DagFileProcessorManager (PID=31413) exited with exit code 1 - re-launching
+2021-11-07 17:24:29,915 INFO - Launched DagFileProcessorManager with pid: 31852
+2021-11-07 17:24:29,953 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 17:27:41,840 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 17:32:42,579 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 17:37:42,866 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 17:39:18,471 WARNING - DagFileProcessorManager (PID=31852) exited with exit code 1 - re-launching
+2021-11-07 17:39:18,515 INFO - Launched DagFileProcessorManager with pid: 32552
+2021-11-07 17:39:18,548 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 17:42:43,121 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 17:47:43,539 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 17:52:43,853 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 17:57:44,039 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 18:01:39,625 WARNING - DagFileProcessorManager (PID=32552) exited with exit code 1 - re-launching
+2021-11-07 18:01:39,638 INFO - Launched DagFileProcessorManager with pid: 847
+2021-11-07 18:01:39,650 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 18:02:44,292 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 18:07:44,576 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 18:12:44,918 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 18:17:45,175 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 18:22:45,761 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 18:27:46,420 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 18:32:46,714 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 18:37:47,006 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 18:42:47,183 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 18:47:47,339 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 18:52:47,681 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 18:57:48,396 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 19:02:48,524 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 19:07:48,680 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 19:12:49,502 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 19:17:49,792 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 19:22:50,178 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 19:27:50,462 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 19:32:50,584 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 19:37:50,841 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 19:42:51,408 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 19:47:52,096 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 19:52:52,353 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 19:57:52,686 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 20:02:53,269 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 20:07:53,427 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 20:12:53,551 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 20:17:54,292 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 20:22:54,584 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 20:27:54,862 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 20:32:55,018 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 20:37:55,303 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 20:42:55,457 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 20:47:56,039 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 20:52:56,635 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 20:56:25,490 WARNING - DagFileProcessorManager (PID=847) exited with exit code 1 - re-launching
+2021-11-07 20:56:25,506 INFO - Launched DagFileProcessorManager with pid: 9040
+2021-11-07 20:56:25,517 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 20:57:56,891 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 21:02:57,073 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 21:07:57,357 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 21:12:57,618 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 21:17:57,825 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 21:22:58,730 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 21:27:59,051 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 21:32:59,730 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 21:38:00,446 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 21:43:00,755 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 21:48:00,929 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 21:53:02,126 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 21:58:02,361 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 22:03:02,625 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 22:08:03,148 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 22:13:03,567 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 22:18:04,081 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 22:23:04,342 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 22:28:04,403 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 22:33:04,430 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 22:38:04,990 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 22:43:05,792 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 22:48:06,072 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 22:53:06,657 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 22:58:06,688 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 23:03:07,025 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 23:08:07,192 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 23:13:07,501 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 23:17:56,319 WARNING - DagFileProcessorManager (PID=9040) exited with exit code 1 - re-launching
+2021-11-07 23:17:56,336 INFO - Launched DagFileProcessorManager with pid: 15441
+2021-11-07 23:17:56,352 INFO - Configured default timezone Timezone('UTC')
+2021-11-07 23:18:07,604 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 23:23:07,892 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 23:28:08,655 INFO - Resetting orphaned tasks for active dag runs
+2021-11-07 23:33:09,346 INFO - Resetting orphaned tasks for active dag runs
+2021-11-08 11:09:46,139 INFO - Resetting orphaned tasks for active dag runs
+2021-11-08 11:09:46,147 INFO - Marked 1 SchedulerJob instances as failed
+2021-11-08 11:14:46,217 INFO - Resetting orphaned tasks for active dag runs
+2021-11-08 11:19:46,525 INFO - Resetting orphaned tasks for active dag runs
+2021-11-08 11:24:46,545 INFO - Resetting orphaned tasks for active dag runs
+2021-11-08 11:25:26,859 INFO - Exiting gracefully upon receiving signal 15
+2021-11-08 11:25:27,865 INFO - Sending Signals.SIGTERM to GPID 15441
+2021-11-08 11:25:28,207 INFO - Process psutil.Process(pid=15441, status='terminated') (15441) terminated with exit code 0
+2021-11-08 11:25:28,209 INFO - Sending Signals.SIGTERM to GPID 15441
+2021-11-08 11:25:28,210 INFO - Exited execute loop
+2021-11-08 11:25:58,693 INFO - Starting the scheduler
+2021-11-08 11:25:58,694 INFO - Processing each file at most -1 times
+2021-11-08 11:25:58,718 INFO - Launched DagFileProcessorManager with pid: 17153
+2021-11-08 11:25:58,720 INFO - Resetting orphaned tasks for active dag runs
+2021-11-08 11:25:58,730 INFO - Configured default timezone Timezone('UTC')
